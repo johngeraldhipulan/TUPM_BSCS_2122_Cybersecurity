@@ -1,6 +1,6 @@
-TITLE : Beyond Firewalls: EnhancingCybersecurity in a RapidlyEvolving LandscapeSecuring the Future of Digital Innovation
+Group 11: Cybesecurity
 
-Group 11:
+TITLE : Beyond Firewalls: Enhancing Cybersecurity in a Rapidly Evolving Landscape Securing the Future of Digital Innovation
 
 John Gerald Hipulan - (Presentation / Research)
 - Introduction and Background of the Technology Topic
@@ -21,3 +21,5 @@ Paolo Miguel Sunga (PPTX Creation / Research)
 - Laws in the Philippines and Abroad that Tackles Cybersecurity
 - Surveys
 - Recommendations
+
+
